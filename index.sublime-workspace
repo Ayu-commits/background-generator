@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"am",
+				"animation\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"borde",
+				"border-right\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dell/Desktop/Background Generator/maxprod.py",
+		"/C/Users/Dell/Documents/marcy/background-generator/README.md",
+		"/C/Users/Dell/Desktop/Background Generator/bundle.js",
+		"/C/Users/Dell/Desktop/Background Generator/package.json",
+		"/C/Users/Dell/Desktop/Background Generator/package-lock.json",
+		"/C/Users/Dell/Desktop/Background Generator/live.js",
+		"/E/UDEMY/Web development/Background Generator/style.css",
+		"/E/UDEMY/Web development/Background Generator/script.js",
+		"/E/UDEMY/Web development/Background Generator/index.html",
+		"/C/Users/Dell/Desktop/Background Generator/index.html",
+		"/E/UDEMY/Web development/Background Generator/package.json",
+		"/E/UDEMY/Web development/Background Generator/index.html.html",
+		"/E/UDEMY/Web development/Background Generator/style.css.css",
+		"/E/UDEMY/Web development/Background Generator/script.js.js",
+		"/E/UDEMY/Web development/original (6)/script.js",
+		"/E/UDEMY/Web development/original (6)/style.css",
+		"/E/UDEMY/Web development/original (6)/index.html",
+		"/E/html.txt",
+		"/C/Users/Dell/Downloads/Web development/javascript/SectionOutline.txt",
+		"/D/death note/AnimeCruzers_com_DN_23.zip",
+		"/E/COURSEERA/Email/1.txt",
+		"/E/COURSEERA/Email/subtitle.txt",
+		"/E/UDEMY/Mastering the Interview/Resume Cheat Sheet",
+		"/C/Users/Dell/Downloads/_6fb69eabde5662fc69073f044056cafd_introcss.ppt.zip",
+		"/E/COURSEERA Project html/project.html",
+		"/C/Users/Dell/Downloads/Web development/Startup landing page/header.jpg",
+		"/C/Users/Dell/Downloads/Web development/Startup landing page/style.css",
+		"/C/Users/Dell/Downloads/Web development/Startup landing page/index.html",
+		"/C/Users/Dell/Downloads/original (2).zip",
+		"/C/Users/Dell/Downloads/original (1).zip",
+		"/C/Users/Dell/Downloads/exercise2.zip",
+		"/C/Users/Dell/AppData/Roaming/jupyter/runtime/nbserver-3620-open.html",
+		"/C/Users/Dell/AppData/Roaming/jupyter/runtime/nbserver-6452-open.html",
+		"/C/Users/Dell/AppData/Roaming/jupyter/runtime/nbserver-5820-open.html",
+		"/C/Users/Dell/AppData/Roaming/jupyter/runtime/nbserver-4448-open.html",
+		"/C/Users/Dell/Downloads/Web development/bootstrap-4.4.1-dist/style.css",
+		"/C/Users/Dell/Downloads/Web development/bootstrap-4.4.1-dist/index.html",
+		"/C/Users/Dell/Downloads/Web development/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css",
+		"/C/Users/Dell/AppData/Local/Temp/Temp1_bootstrap-4.4.1-dist.zip/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css",
+		"/C/Users/Dell/Downloads/Web development/register.html",
+		"/C/Users/Dell/Downloads/Web development/resouces/CSS resource/index.html",
+		"/C/Users/Dell/Downloads/Web development/resouces/Exercise 2/made by udemy/style.css",
+		"/C/Users/Dell/Downloads/Web development/resouces/Exercise 2/index.html",
+		"/C/Users/Dell/Downloads/Web development/resouces/Exercise 2/style.css",
+		"/C/Users/Dell/Downloads/Web development/resouces/Exercise 2/made by udemy/index.html",
+		"/C/Users/Dell/Downloads/Web development/resouces/Exercise 2/login.html",
+		"/C/Users/Dell/Downloads/Web development/resouces/Exercise 2/picture links",
+		"/C/Users/Dell/AppData/Local/Temp/Rar$DIa4928.40811/bootstrap.min.css",
+		"/C/Users/Dell/AppData/Local/Temp/Rar$DIa4928.40603/bootstrap.min.css",
+		"/C/Users/Dell/AppData/Local/Temp/Rar$DIa4928.9822/bootstrap.css",
+		"/C/Users/Dell/AppData/Local/Temp/Rar$DIa4928.42534/bootstrap-reboot.min.css",
+		"/C/Users/Dell/Downloads/Web development/resouces/CSS resource/login.html",
+		"/C/Users/Dell/Downloads/Web development/resouces/CSS resource/style2.css",
+		"/C/Users/Dell/Downloads/Web development/resouces/CSS resource/about.html",
+		"/C/Users/Dell/Downloads/Web development/resouces/CSS resource/style.css",
+		"/C/Users/Dell/Downloads/Web development/newpage.html",
+		"/C/Users/Dell/Downloads/Web development/myfeel.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
